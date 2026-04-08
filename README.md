@@ -1,4 +1,4 @@
-# FuncoesUsandoPython
+# Funcoes Usando Python Dentro do Google Colab
 
 Estou criando esse repositório para exibir uma modificação que eu fiz durante minhas aulas de matemática para computação que acho interessante compartilhar por aqui.
 <br><br>
