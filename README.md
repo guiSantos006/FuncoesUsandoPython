@@ -1,10 +1,12 @@
-# Funcoes Usando Python Dentro do Google Colab
+# Funções Usando Python Dentro do Google Colab
 
 Estou criando esse repositório para exibir uma modificação que eu fiz durante minhas aulas de matemática para computação que acho interessante compartilhar por aqui.
 <br><br>
 Estavamos estudando as funções trigonométricas (seno, cosseno, tangente), e cada uma delas tem caractéristas diferentes, mas seus valores conversam entre si. Inicialmente, passamos vendo uma por uma, mas queria entender melhor a relação entre elas. Por isso modifiquei o código para que mostrasse o o sen,cos e tan no mesmo plano simultâneamente.
 
 Vamos associar o seno à linha azul, o cosseno à linha verde, e a tangente a linha vermelha.
+
+## Imagem do gráfico das funções Sen,Cos,Tan.
 
 <img width="727" height="436" alt="image" src="https://github.com/user-attachments/assets/7dd52846-a5ae-4bfe-bfb1-2d47de045c83" />
 
